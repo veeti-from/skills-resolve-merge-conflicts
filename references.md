@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This will give an error
